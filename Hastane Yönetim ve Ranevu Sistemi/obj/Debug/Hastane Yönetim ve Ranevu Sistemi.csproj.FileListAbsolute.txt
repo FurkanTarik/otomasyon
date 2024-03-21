@@ -1,0 +1,12 @@
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\bin\Debug\Hastane Yönetim ve Ranevu Sistemi.exe.config
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\bin\Debug\Hastane Yönetim ve Ranevu Sistemi.exe
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\bin\Debug\Hastane Yönetim ve Ranevu Sistemi.pdb
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane Yönetim ve Ranevu Sistemi.csproj.AssemblyReference.cache
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane Yönetim ve Ranevu Sistemi.csproj.SuggestedBindingRedirects.cache
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Ranevu_Sistemi.Form1.resources
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Ranevu_Sistemi.Properties.Resources.resources
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane Yönetim ve Ranevu Sistemi.csproj.GenerateResource.cache
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane Yönetim ve Ranevu Sistemi.csproj.CoreCompileInputs.cache
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane Yönetim ve Ranevu Sistemi.exe
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane Yönetim ve Ranevu Sistemi.pdb
+D:\C#\Hastane Yönetim ve Ranevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Ranevu_Sistemi.FormHastagiris.resources
